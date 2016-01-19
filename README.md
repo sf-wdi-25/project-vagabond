@@ -52,14 +52,35 @@ Use the **[git collaborator scenario](./git-collaboration-workflow.md)</a>, feat
 
 Each group has an assigned instructor or DIR, who will act as your client as well as give technical support during instructor-group meetings.
 
-#### Group \#1 - Instructor
-* Student
-* Student
+#### Group \#1 - NA
+* Noah
+* Kayvon 
+* Rich
+* Joe
+
+#### Group \#2 - TG
+* Daniel
+* Reva
+* Matthew
+* Breon
+
+#### Group \#3 - JC
+* Kehontas
+* Thomas
+* Danny
+* Nathan
+
+#### Group \#4 - TG
+* Colbert
+* Doug
+* Is
+* Alex
+
 
 
 ## Presentation
 
-Each group will present their project on **Thursday, January 7th** starting at **10:00am** for 10 minutes.
+Each group will present their project on **Friday, January 21st** starting at **10:00am** for 10 minutes.
 
 Each member of your group should speak during your presentation and mention which parts of the project they worked on.
 
