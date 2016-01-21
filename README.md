@@ -76,11 +76,12 @@ Each group has an assigned instructor or DIR, who will act as your client as wel
 * Is
 * Alex
 
-
+## Heroku Deploy
+Please be ready to deploy your rails application to Heroku **Thursday** at **3pm**.
 
 ## Presentation
 
-Each group will present their project on **Friday, January 21st** starting at **10:00am** for 10 minutes.
+Each group will present their project on **Friday, January 21st** starting at **1pm** for 10 minutes.
 
 Each member of your group should speak during your presentation and mention which parts of the project they worked on.
 
